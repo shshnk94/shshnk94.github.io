@@ -34,7 +34,7 @@ params:
     profileMode:
           enabled: true
           title: Shashanka Subrahmanya
-          subtitle: "I'm a PhD Student at [Stanford Psychology](https://psychology.stanford.edu/) advised by [Dr. Nilam Ram](https://thechangelab.stanford.edu/) and [Dr. Johannes Eichstaedt](https://jeichstaedt.com/). My research focuses on studying affect dynamics, wellbeing and mental health using AI and longitudinal methods. I'm also associated with the World Well-Being Project where I collaborate to develop tools for language analysis."
+          subtitle: "I'm a PhD Student in Psychology at Stanford University advised by [Dr. Nilam Ram](https://thechangelab.stanford.edu/) and [Dr. Johannes Eichstaedt](https://jeichstaedt.com/). My research employs AI and longitudinal methods to study affect, wellbeing and mental health. I'm also associated with the [World Well-Being Project](https://www.wwbp.org/) where I collaborate to develop NLP methods to measure psychological states of individuals and populations."
           imageUrl: "/images/bio.jpeg"
           imageWidth: 130
           imageHeight: 130
@@ -47,14 +47,14 @@ params:
     socialIcons:
         - name: CV
           url: cv.pdf
-        - name: "email"
-          url: mailto:shshnk94@gmail.com
         - name: "googlescholar"
           url: https://scholar.google.com/citations?user=mnnypPwAAAAJ
         - name: "github"
           url: https://github.com/shshnk94
         - name: "twitter"
           url: https://x.com/digitalyonko
+        - name: "linkedin"
+          url: https://www.linkedin.com/in/shashanka-subrahmanya/
 
     assets:
         disableScrollBarStyle: true
