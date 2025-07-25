@@ -1,0 +1,68 @@
+baseURL: "https://shshnk94.github.io" 
+title: Shashanka Subrahmanya
+theme: PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 40
+
+taxonomies:
+    tag: tags
+
+params:
+    description: "Shashanka's personal webpage"
+    author: Shashanka Subrahmanya
+    googleAnalyticsID: ""
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: false
+    ShowShareButtons: false
+    ShowReadingTime: false
+    ShowWordCount: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    disableScrollToTop: true
+    ShowCodeCopyButtons: true
+    ShowToc: false
+    TocOpen: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Shashanka Subrahmanya
+          subtitle: "I'm a PhD Student at [Stanford Psychology](https://psychology.stanford.edu/) advised by [Dr. Nilam Ram](https://thechangelab.stanford.edu/) and [Dr. Johannes Eichstaedt](https://jeichstaedt.com/). My research focuses on studying affect dynamics, wellbeing and mental health using AI and longitudinal methods. I'm also associated with the World Well-Being Project where I collaborate to develop tools for language analysis."
+          imageUrl: "/images/bio.jpeg"
+          imageWidth: 130
+          imageHeight: 130
+          buttons:
+            - name: Publications
+              url: publications/
+            - name: Jñānakosha
+              url: jnanakosha/
+
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: "email"
+          url: mailto:shshnk94@gmail.com
+        - name: "googlescholar"
+          url: https://scholar.google.com/citations?user=mnnypPwAAAAJ
+        - name: "github"
+          url: https://github.com/shshnk94
+        - name: "twitter"
+          url: https://x.com/digitalyonko
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Shashanka Subrahmanya"
+
+titleCaseStyle: 'none'
+enableGitInfo: true
