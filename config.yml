@@ -45,8 +45,8 @@ params:
               url: jnanakosha/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        - name: "cv"
+          url: /cv.pdf
         - name: "googlescholar"
           url: https://scholar.google.com/citations?user=mnnypPwAAAAJ
         - name: "github"
