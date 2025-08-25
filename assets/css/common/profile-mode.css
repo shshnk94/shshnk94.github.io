@@ -54,3 +54,7 @@ header, .header, .navbar {
     font-weight: 500;
     transition: color 0.2s;
 }
+
+.profile .profile_inner > span p {
+    margin-bottom: 1.5em;
+}

@@ -1,0 +1,3 @@
+I'm a PhD Student in Psychology at Stanford University advised by [Dr. Nilam Ram](https://thechangelab.stanford.edu/) and [Dr. Johannes Eichstaedt](https://jeichstaedt.com/). My research employs AI and longitudinal methods to study affect, wellbeing and mental health. I'm also associated with the [World Well-Being Project](https://www.wwbp.org/) where I collaborate to develop NLP methods to measure psychological states of individuals and populations. 
+
+I'm always eager to connect with others working at the intersection of AI and Psychology, or in related areas. If you're interested in sharing ideas or exploring potential collaborations, please [schedule a meeting](https://calendly.com/ssbrahma/shashanka-s-office-hours).
